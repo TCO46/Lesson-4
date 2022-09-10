@@ -6,9 +6,3 @@
 .color-changer:hover {
     background-color: black;
 }
-
-.clock {
-    padding-top: 200px;
-    text-align: center;
-    font-size: 20px;
-}
