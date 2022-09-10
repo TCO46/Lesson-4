@@ -24,11 +24,13 @@ for (let i = 1; i <= n; i++) {
     string += "1";
   }
 
-  string += "\n";
+  string += "<br/>";
 }
 
-console.log(string);
+document.write(string);
 }
+
+numberOneTriangle()
 
 //bài 4
 
